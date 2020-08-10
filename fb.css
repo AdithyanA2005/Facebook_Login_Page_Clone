@@ -1,0 +1,418 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 83px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.logo{
+    width: 57.55%;    
+    float: left;
+    padding-right: 0px;
+ 
+}
+.logo-text{
+    color: #fff;
+    font-size: 39px;
+    font-weight: 600;
+    line-height:32px;
+    letter-spacing: -1px;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 187px;
+    line-height: 89.7667px;
+
+    
+
+}  
+.login-label{
+    color: #fff;
+    font-size: 12px;
+   
+      
+}
+.login{
+    color: aquamarine;
+   
+}
+.forgotten{
+    font-size: 12px;
+    text-decoration: none;
+    color: hsl(216, 43%, 73%);
+    
+}
+.address{
+    width: 142px;
+    height: 18px;
+    margin-top: 3px;
+    border: #000;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 4px;
+    padding-left: 3px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+
+}
+
+.pass{
+    width: 142px;
+    height: 18px;
+    margin-top: 3px;
+    margin-left: 10px;
+    border: #000;
+    padding: 1px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 4px;
+    padding-left: 3px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+
+}
+.login-label2{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 13px;
+   
+}
+.forgotten{
+    margin-top: -2px;
+    margin-left: 10px;
+}
+.logbtn{
+    
+    width: 50px;
+    height: 24px;
+    font-size: 12px;
+    font-weight: 900;
+    color: #fff;
+    margin-left: 10px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+
+    background-color:  #4267b2;
+    border-color: #29487d;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    cursor: pointer;
+   
+}
+.logbtn:hover{
+    background: rgba(0, 0, 0, 0.096);
+}
+.left-selection{
+    width: 50%;
+    float: left;
+    padding-left: 187px
+}
+.right-selection{
+    width: 36%;
+    float:left;
+     
+
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 589px;
+}
+.para{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0e385f;
+    margin-top: 33px;
+    word-spacing: -1px;
+    width: 450px;
+    height: 58px;
+}
+.image{
+    margin-top: -20px;
+
+
+}
+.fbpic{
+    margin-bottom: -3px;
+}
+.heading{
+    margin-left: -104px;
+    color: #333;
+    font-size: 36px;
+    margin-top: 11.117px
+}
+.heading-para{
+    font-size: 19px;
+    margin-top: -23px;
+    color: #1d2129;
+    margin-left: -104px;
+}
+.action{
+    margin-left: -103;
+
+
+}
+.boxfname{
+    width: 172px;
+    height: 27px;
+    font-size: 18px;
+    margin-left: -104px;
+    border-top-color: #d0d7e04f;
+    border-left-color: #d0d7e04f;
+    border-bottom-color: #4c6c9536;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-radius: 5px;
+    
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    ;
+
+}
+.boxlname{
+    width: 172px;
+    height: 27px;
+    font-size: 18px;
+    margin-left: 10px;
+    border-top-color: #d0d7e04f;
+    border-left-color: #d0d7e04f;
+    border-bottom-color: #4c6c9536;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-radius: 5px;
+    
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+}
+.boxemail{
+    height: 27px;
+    width: 380px;
+    font-size: 18px;
+    margin-left: -104px;
+    margin-top: 3mm;
+    border-top-color: #d0d7e04f;
+    border-left-color: #d0d7e04f;
+    border-bottom-color: #4c6c9536;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-radius: 5px;
+    
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+}
+.new-pass{
+    height: 27px;
+    width: 380px;
+    font-size: 18px;
+    margin-left: -104px;
+    margin-top: 3mm;
+    margin-bottom: 15px;
+    border-top-color: #d0d7e04f;
+    border-left-color: #d0d7e04f;
+    border-bottom-color: #4c6c9536;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-radius: 5px;
+    
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+}
+.dob{
+    width: 400px;
+    height: 21.4333px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #90949c;
+    margin-left: -104px;
+    margin-top: 3mm;
+}
+.day{
+    margin-top: 4px;
+    margin-left: -104px;
+    height: 30px;
+    width: 55.7833px;
+    background-color: #fff;
+    color: #1c1e21;
+    border-color: #ccd0d5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;  
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    
+    
+
+}.month{
+    height: 30px;
+    width: 69.083px;
+    margin-left: -5px;
+    background-color: #fff;
+    color: #1c1e21;
+    border-color: #ccd0d5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;  
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.year{
+    height: 30px;
+    width: 69.083px;
+    margin-left: -5px;
+    background-color: #fff;
+    color: #1c1e21;
+    border-color: #ccd0d5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;  
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.gender{
+    width: 400px;
+    height: 21.4333px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #90949c;
+    margin-left: -104px;
+    margin-top: 3mm;
+
+}
+.genderSelect{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px;
+    margin-top: 13px;
+    margin-left: -104px;
+
+}
+.female{
+    margin-right: 3mm;
+
+}
+.male{
+    margin-right: 3mm
+
+}
+.signuptext{
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+    margin-left: -104px;
+    margin-top: 4mm;
+
+}
+.signUpBtn{
+    width: 194px;
+    height: 39.9333px;
+    border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+color: #fff;
+cursor: pointer;
+display: inline-block;
+    font-size: 19px;
+    margin-top:4px;
+    margin-left: -104px;
+    padding-top: 7px;
+    padding-right: 20px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-right-width: 1px;
+    border-right-style: solid;
+    background: linear-gradient(#67ae55, #578843); 
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+
+}
+.createpagetext{
+    width: 980px;
+    height: 620.617px;
+    border-top-color: rgb(221, 223, 226);
+border-top-style: solid;
+border-top-width: 1px;
+color: #666;
+font-size: 13px;
+font-weight: bold;
+
+}
+.cpdiv{
+    margin-left: -104px;
+    margin-top: 32px;
+}
